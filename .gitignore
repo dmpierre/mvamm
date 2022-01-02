@@ -1,0 +1,6 @@
+build/contracts/
+test/
+node_modules/
+package-lock.json
+truffle-config.js
+migrations/
